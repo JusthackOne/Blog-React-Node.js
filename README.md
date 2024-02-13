@@ -1,4 +1,4 @@
-# Simple Online Market 📝
+# Simple Online Blog 📝
 
 Discover how to create your very own online blog complete with a dynamic news feed, user-friendly news editing capabilities, customizable tagging options, and a secure authentication system. Unleash your creativity and build a unique platform for sharing your thoughts and engaging with your audience.
 
